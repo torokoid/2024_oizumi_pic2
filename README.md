@@ -95,7 +95,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <p align="left"> <span class="yellow">&nbsp;祝！65歳</span></p>
 <!--<p><h2><a href="https://torokoid.github.io/list">クラス会名簿リンク</a></h2></p>-->
 <br><br>
-<p align="left"> <img src="oizumi_pic.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="oizumi_pic2.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 
 
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
