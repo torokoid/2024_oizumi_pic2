@@ -315,7 +315,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240615_01_201.JPG" data-lightbox="abc"><img src="20240615_01_201.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240615_01_202.JPG" data-lightbox="abc"><img src="20240615_01_202.JPG" alt="サンプル画像" width="900" /></a>
 
-
+<h3>二次会分で202枚あります。</h3>
 
 
 
